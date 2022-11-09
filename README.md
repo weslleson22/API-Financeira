@@ -10,7 +10,7 @@
 <h4 align="center"> 
 	🚧  API Select 🚀 Em construção...  🚧
 </h4>
-
+ 
 ### Metodos HTTP
 
 - [x] GET
